@@ -10,6 +10,8 @@
 - Applies enum-based variant values on controller nodes for characters like `constance` and `romane`
 - Works both with and without ShotGrid Toolkit (`sgtk`)
 
+![Tool Preview](utils/preview/demo_setVariant.gif)
+
 ## 🧰 Features
 
 - ✅ PySide6 UI with smart detected shot label
