@@ -14,11 +14,11 @@
 
 ## 🧰 Features
 
-- ✅ PySide6 UI with smart detected shot label
-- ✅ Optional ShotGrid shot override via dropdown (using `shotgun_api3` or `sgtk`)
-- ✅ Auto-clears existing enum animation keys
-- ✅ Structured, modular, and fully PEP8-compliant
-- ✅ `.mod`-compatible module layout for Maya integration
+- PySide6 UI with smart detected shot label
+- Optional ShotGrid shot override via dropdown (using `shotgun_api3` or `sgtk`)
+- Auto-clears existing enum animation keys
+- Structured, modular, and fully PEP8-compliant
+- `.mod`-compatible module layout for Maya integration
 
 ## 🧪 Usage
 
